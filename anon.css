@@ -1,0 +1,246 @@
+.m-bar{
+    display: flex;
+    padding: 1px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px ridge;
+    color: grey;
+    border-left: none;
+    border-right: none;
+}
+.iccon{
+    margin-left: 60px;
+}
+#faa{
+    margin-left: 5px;
+    background-color: rgb(185, 207, 229);
+    font-size: 25px;
+    border-radius: 5px;
+}
+#faa:hover{
+    background-color:hotpink;
+    cursor: grab;
+}
+.selec{
+    margin-right: 100px;
+}
+#ee{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.s-bar{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-between;
+    border:1PX RIDGE;
+    border-left: none;
+    border-right: none;
+}
+.menu{
+    margin-left: 350px;
+    margin-right: 300px;
+    justify-content: space-between;
+    display: flex;
+}
+.menu button{
+    border: none;
+    background-color: white;
+    font-size: 17px;
+    font-weight: bold;
+    color: gray;
+}
+.menu button:hover{
+    color: hotpink;
+    border-bottom: 3px solid hotpink;
+}
+.banner-1{
+    background-image: url(images/banner-1.jpg);
+    background-size: cover;
+    height: 480px;
+    width: 1300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:10px;
+}
+.banner-2{
+    background-image: url(images/banner-2.jpg);
+    background-size: cover;
+    height: 480px;
+    width: 1300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:10px;
+}
+.items{
+    display:flex;
+    height: 80px;
+    width: 300px;
+    padding:2px;
+    border: 1px ridge;
+    align-items: center;
+ }
+ .but{
+    border:none;
+    background-color:white;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(243, 150, 151);
+ }
+ .carr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+  #butt{
+    color:gray;
+    font-size: 20px;
+ }
+ .navv{
+    display: block;
+    width: 250px;
+    height:400px;
+    border: 1px ridge;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.me{
+    width: 1000px;
+    margin-left: 400px;
+    margin-top: -800px;
+    margin-bottom: 50px;
+}
+.raj{
+    display: flex;
+    border: 1px ridge;
+    border-radius: 20px;
+}
+.nav2{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 250px;
+}
+.bs{
+    display: flex;
+}
+.star{
+    color: orange;
+    font-size: 12px;
+}
+.deal{
+    display: flex;
+    border: 1px ridge;
+    margin-top: 30px;
+}
+.cart{
+    margin-top: 20px;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(243, 150, 151);
+    border:none;
+    border-radius: 15px;
+}
+.rou{
+    height: 60px;
+    width: 60px;
+    background-color:lightgray;
+    border: 1px ridge;
+    display: inline-block;
+    line-height: 5px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.rou h4{
+    margin-left: 10px;
+}
+.rou p{
+    color: gray;
+    margin-left: 15px;
+    font-size: 12px;
+}
+.stars{
+    color: orange;
+    font-size: 20px;
+}
+.testi{
+    border: 1px ridge;
+    height: 330px;
+    width: 300px;
+    align-items: center;
+    display: inline-block;
+    justify-content: space-between;
+}
+.testi-mi{
+    height: 300px;
+    width: 300px;
+    margin-left: 190px;
+    margin-top: 60px;
+    border: 1px ridge;
+    background:transparent;
+    text-align: center;
+    display: block;
+    justify-content: space-between;
+}
+.con{
+    display:flex;
+    color: gray;
+}
+#fas{
+    font-size: 40px;
+    color:rgb(243, 150, 151) ;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#fas:hover{
+    color: black;
+}
+.card-footer h5:hover{
+    color:rgb(243, 150, 151);
+}
+footer{
+    background-color: black;
+    color: gray;
+}
+.dir{
+    display: block;
+    margin-left: 70px;
+    color: gray;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+li{
+    list-style-type: none;
+    margin-right: 20px;
+}
+.line{
+    display: flex;
+}
+.las{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.las h6{
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(243, 150, 151);
+}
+.las i{
+    color: gray;
+    background-color: black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.atm{
+    padding: 20px;
+    text-align: center;
+}
